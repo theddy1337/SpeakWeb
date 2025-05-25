@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "4JB2QTZ6QS.com.marinovt.StutterFree",
-        "paths": [ "/*" ]
+        "paths": [ "/__/auth/*" ]
       }
     ]
   },
