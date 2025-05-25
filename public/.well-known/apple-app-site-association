@@ -4,8 +4,13 @@
     "details": [
       {
         "appID": "4JB2QTZ6QS.com.marintov.StutterFree",
-        "paths": [ "/**" ]
+        "paths": [ "/*" ]
       }
     ]
-  }
+  },
+  "webcredentials": {
+    "apps": [
+        "4JB2QTZ6QS.com.marintov.StutterFree"
+    ]
+}
 }
