@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "4JB2QTZ6QS.com.marintov.StutterFree",
+        "appID": "4JB2QTZ6QS.com.marinovt.StutterFree",
         "paths": [ "/*" ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-        "4JB2QTZ6QS.com.marintov.StutterFree"
+        "4JB2QTZ6QS.com.marinovt.StutterFree"
     ]
 }
 }
